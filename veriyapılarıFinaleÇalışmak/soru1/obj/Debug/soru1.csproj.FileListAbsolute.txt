@@ -1,0 +1,7 @@
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\bin\Debug\soru1.exe.config
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\bin\Debug\soru1.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\bin\Debug\soru1.pdb
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\obj\Debug\soru1.csproj.AssemblyReference.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\obj\Debug\soru1.csproj.CoreCompileInputs.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\obj\Debug\soru1.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\soru1\obj\Debug\soru1.pdb

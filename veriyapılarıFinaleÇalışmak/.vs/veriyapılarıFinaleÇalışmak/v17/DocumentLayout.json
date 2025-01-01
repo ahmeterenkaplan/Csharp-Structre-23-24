@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7A23DB-F036-452E-ADB5-E4E7341694CD}|odev1_1\\odev1_1.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\odev1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7A23DB-F036-452E-ADB5-E4E7341694CD}|odev1_1\\odev1_1.csproj|solutionrelative:odev1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44420779-A5B8-4DFF-8832-6F212E131A7D}|veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44420779-A5B8-4DFF-8832-6F212E131A7D}|veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak.csproj|solutionrelative:veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37AF5A-9F11-477F-BA8E-8EFA3B0FD244}|masa\\masa.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\masa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37AF5A-9F11-477F-BA8E-8EFA3B0FD244}|masa\\masa.csproj|solutionrelative:masa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A376E9-B8E8-4548-9D7F-15AEC99FB9B7}|hafta2\\hafta2.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\hafta2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A376E9-B8E8-4548-9D7F-15AEC99FB9B7}|hafta2\\hafta2.csproj|solutionrelative:hafta2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC88C88-A2FC-410C-A8E5-96681C3BCF7B}|sorular\\sorular.csproj|C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\sorular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC88C88-A2FC-410C-A8E5-96681C3BCF7B}|sorular\\sorular.csproj|solutionrelative:sorular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BF74D3-BC4C-4F9B-94CB-67CAC612A2EB}|enOnemliMetotlar\\enOnemliMetotlar.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\enonemlimetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BF74D3-BC4C-4F9B-94CB-67CAC612A2EB}|enOnemliMetotlar\\enOnemliMetotlar.csproj|solutionrelative:enonemlimetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E6B0C9-5E93-47DB-BC69-9F2E7E646A34}|soru3\\soru3.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\soru3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E6B0C9-5E93-47DB-BC69-9F2E7E646A34}|soru3\\soru3.csproj|solutionrelative:soru3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9466F189-7201-413F-9C73-F439924A0603}|soru2\\soru2.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\soru2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9466F189-7201-413F-9C73-F439924A0603}|soru2\\soru2.csproj|solutionrelative:soru2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F7D446-5016-415D-9C75-69DD205BE1A0}|soru1\\soru1.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\soru1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F7D446-5016-415D-9C75-69DD205BE1A0}|soru1\\soru1.csproj|solutionrelative:soru1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6A129E-DDFC-4C71-8496-FE45B3D19A9B}|odev3\\odev3.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\odev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6A129E-DDFC-4C71-8496-FE45B3D19A9B}|odev3\\odev3.csproj|solutionrelative:odev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F5505-9619-478A-AA65-263161D33971}|odev1_4\\odev1_4.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\odev1_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F5505-9619-478A-AA65-263161D33971}|odev1_4\\odev1_4.csproj|solutionrelative:odev1_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FACB10A-EF70-4658-8FAE-A02CCBB2D78F}|odev1_3_i\u00F6\\odev1_3_i\u00F6.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\odev1_3_i\u00F6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FACB10A-EF70-4658-8FAE-A02CCBB2D78F}|odev1_3_i\u00F6\\odev1_3_i\u00F6.csproj|solutionrelative:odev1_3_i\u00F6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6040ACB2-254F-488E-8199-89DA5E3932B0}|odev1_2\\odev1_2.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\odev1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6040ACB2-254F-488E-8199-89DA5E3932B0}|odev1_2\\odev1_2.csproj|solutionrelative:odev1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94935F3F-CFD0-4789-B99A-39FC1C0BBB63}|odev1_1_i\u00F6\\odev1_1_i\u00F6.csproj|c:\\users\\alast\\downloads\\veri yap\u0131lar\u0131-20241126t075616z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131finale\u00E7al\u0131\u015Fmak\\odev1_1_i\u00F6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94935F3F-CFD0-4789-B99A-39FC1C0BBB63}|odev1_1_i\u00F6\\odev1_1_i\u00F6.csproj|solutionrelative:odev1_1_i\u00F6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\Program.cs",
+              "RelativeDocumentMoniker": "veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\Program.cs",
+              "RelativeToolTip": "veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:40.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\hafta2\\Program.cs",
+              "RelativeDocumentMoniker": "hafta2\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\hafta2\\Program.cs",
+              "RelativeToolTip": "hafta2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\enOnemliMetotlar\\Program.cs",
+              "RelativeDocumentMoniker": "enOnemliMetotlar\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\enOnemliMetotlar\\Program.cs",
+              "RelativeToolTip": "enOnemliMetotlar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:30.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\soru3\\Program.cs",
+              "RelativeDocumentMoniker": "soru3\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\soru3\\Program.cs",
+              "RelativeToolTip": "soru3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\soru2\\Program.cs",
+              "RelativeDocumentMoniker": "soru2\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\soru2\\Program.cs",
+              "RelativeToolTip": "soru2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:26.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\soru1\\Program.cs",
+              "RelativeDocumentMoniker": "soru1\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\soru1\\Program.cs",
+              "RelativeToolTip": "soru1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev3\\Program.cs",
+              "RelativeDocumentMoniker": "odev3\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev3\\Program.cs",
+              "RelativeToolTip": "odev3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:21.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_4\\Program.cs",
+              "RelativeDocumentMoniker": "odev1_4\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_4\\Program.cs",
+              "RelativeToolTip": "odev1_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:17.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_3_i\u00F6\\Program.cs",
+              "RelativeDocumentMoniker": "odev1_3_i\u00F6\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_3_i\u00F6\\Program.cs",
+              "RelativeToolTip": "odev1_3_i\u00F6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_2\\Program.cs",
+              "RelativeDocumentMoniker": "odev1_2\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_2\\Program.cs",
+              "RelativeToolTip": "odev1_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_1_i\u00F6\\Program.cs",
+              "RelativeDocumentMoniker": "odev1_1_i\u00F6\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_1_i\u00F6\\Program.cs",
+              "RelativeToolTip": "odev1_1_i\u00F6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:10.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_1\\Program.cs",
+              "RelativeDocumentMoniker": "odev1_1\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\odev1_1\\Program.cs",
+              "RelativeToolTip": "odev1_1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:10:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\sorular\\Program.cs",
+              "RelativeDocumentMoniker": "sorular\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\sorular\\Program.cs",
+              "RelativeToolTip": "sorular\\Program.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAIAwwAYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:09:56.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\masa\\Program.cs",
+              "RelativeDocumentMoniker": "masa\\Program.cs",
+              "ToolTip": "C:\\Users\\alast\\Downloads\\veri yap\u0131lar\u0131-20241126T075616Z-001\\veri yap\u0131lar\u0131\\veriyap\u0131lar\u0131Finale\u00C7al\u0131\u015Fmak\\masa\\Program.cs",
+              "RelativeToolTip": "masa\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:09:57.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

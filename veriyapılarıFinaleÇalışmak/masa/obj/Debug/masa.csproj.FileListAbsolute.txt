@@ -1,0 +1,7 @@
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\bin\Debug\masa.exe.config
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\bin\Debug\masa.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\bin\Debug\masa.pdb
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\obj\Debug\masa.csproj.AssemblyReference.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\obj\Debug\masa.csproj.CoreCompileInputs.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\obj\Debug\masa.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\masa\obj\Debug\masa.pdb

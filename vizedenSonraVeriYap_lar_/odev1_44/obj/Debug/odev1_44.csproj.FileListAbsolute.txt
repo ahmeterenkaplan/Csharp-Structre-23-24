@@ -1,0 +1,8 @@
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\bin\Debug\odev1_44.exe.config
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\bin\Debug\odev1_44.exe
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\bin\Debug\odev1_44.pdb
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\obj\Debug\odev1_44.csproj.AssemblyReference.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\obj\Debug\odev1_44.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\obj\Debug\odev1_44.csproj.CoreCompileInputs.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\obj\Debug\odev1_44.exe
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_44\obj\Debug\odev1_44.pdb

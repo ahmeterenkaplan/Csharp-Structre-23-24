@@ -1,0 +1,8 @@
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\bin\Debug\hafta3Masa.exe.config
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\bin\Debug\hafta3Masa.exe
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\bin\Debug\hafta3Masa.pdb
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\obj\Debug\hafta3Masa.csproj.AssemblyReference.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\obj\Debug\hafta3Masa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\obj\Debug\hafta3Masa.csproj.CoreCompileInputs.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\obj\Debug\hafta3Masa.exe
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYap_lar_\hafta3Masa\obj\Debug\hafta3Masa.pdb

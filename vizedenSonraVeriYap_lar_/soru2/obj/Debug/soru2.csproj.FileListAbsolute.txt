@@ -1,0 +1,7 @@
+C:\Users\wexla\source\repos\soru2\bin\Debug\soru2.exe.config
+C:\Users\wexla\source\repos\soru2\bin\Debug\soru2.exe
+C:\Users\wexla\source\repos\soru2\bin\Debug\soru2.pdb
+C:\Users\wexla\source\repos\soru2\obj\Debug\soru2.csproj.AssemblyReference.cache
+C:\Users\wexla\source\repos\soru2\obj\Debug\soru2.csproj.CoreCompileInputs.cache
+C:\Users\wexla\source\repos\soru2\obj\Debug\soru2.exe
+C:\Users\wexla\source\repos\soru2\obj\Debug\soru2.pdb

@@ -1,0 +1,7 @@
+C:\Users\wexla\source\repos\ders1_1\bin\Debug\ders1_1.exe.config
+C:\Users\wexla\source\repos\ders1_1\bin\Debug\ders1_1.exe
+C:\Users\wexla\source\repos\ders1_1\bin\Debug\ders1_1.pdb
+C:\Users\wexla\source\repos\ders1_1\obj\Debug\ders1_1.csproj.AssemblyReference.cache
+C:\Users\wexla\source\repos\ders1_1\obj\Debug\ders1_1.csproj.CoreCompileInputs.cache
+C:\Users\wexla\source\repos\ders1_1\obj\Debug\ders1_1.exe
+C:\Users\wexla\source\repos\ders1_1\obj\Debug\ders1_1.pdb

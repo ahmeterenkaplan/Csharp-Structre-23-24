@@ -1,0 +1,7 @@
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\bin\Debug\sorular.exe.config
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\bin\Debug\sorular.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\bin\Debug\sorular.pdb
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\obj\Debug\sorular.csproj.AssemblyReference.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\obj\Debug\sorular.csproj.CoreCompileInputs.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\obj\Debug\sorular.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\sorular\obj\Debug\sorular.pdb

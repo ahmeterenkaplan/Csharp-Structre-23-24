@@ -1,0 +1,7 @@
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\bin\Debug\hafta2Masa.exe.config
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\bin\Debug\hafta2Masa.exe
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\bin\Debug\hafta2Masa.pdb
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\obj\Debug\hafta2Masa.csproj.AssemblyReference.cache
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\obj\Debug\hafta2Masa.csproj.CoreCompileInputs.cache
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\obj\Debug\hafta2Masa.exe
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\hafta2Masa\obj\Debug\hafta2Masa.pdb

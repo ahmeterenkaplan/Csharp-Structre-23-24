@@ -1,0 +1,7 @@
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\bin\Debug\odev1_2.exe.config
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\bin\Debug\odev1_2.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\bin\Debug\odev1_2.pdb
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\obj\Debug\odev1_2.csproj.AssemblyReference.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\obj\Debug\odev1_2.csproj.CoreCompileInputs.cache
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\obj\Debug\odev1_2.exe
+C:\Users\alast\source\repos\veriyapılarıFinaleÇalışmak\odev1_2\obj\Debug\odev1_2.pdb

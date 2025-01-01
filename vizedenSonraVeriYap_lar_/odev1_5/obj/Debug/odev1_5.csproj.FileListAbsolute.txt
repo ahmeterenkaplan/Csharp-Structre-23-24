@@ -1,0 +1,8 @@
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\bin\Debug\odev1_5.exe.config
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\bin\Debug\odev1_5.exe
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\bin\Debug\odev1_5.pdb
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\obj\Debug\odev1_5.csproj.AssemblyReference.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\obj\Debug\odev1_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\obj\Debug\odev1_5.csproj.CoreCompileInputs.cache
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\obj\Debug\odev1_5.exe
+C:\Users\Yasir Alrawi\OneDrive - Kırıkkale Üniversitesi\Desktop\vizedenSonraVeriYapıları\odev1_5\obj\Debug\odev1_5.pdb

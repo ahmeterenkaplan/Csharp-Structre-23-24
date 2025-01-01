@@ -1,0 +1,7 @@
+C:\Users\wexla\source\repos\odev1_3\bin\Debug\odev1_3.exe.config
+C:\Users\wexla\source\repos\odev1_3\bin\Debug\odev1_3.exe
+C:\Users\wexla\source\repos\odev1_3\bin\Debug\odev1_3.pdb
+C:\Users\wexla\source\repos\odev1_3\obj\Debug\odev1_3.csproj.AssemblyReference.cache
+C:\Users\wexla\source\repos\odev1_3\obj\Debug\odev1_3.csproj.CoreCompileInputs.cache
+C:\Users\wexla\source\repos\odev1_3\obj\Debug\odev1_3.exe
+C:\Users\wexla\source\repos\odev1_3\obj\Debug\odev1_3.pdb

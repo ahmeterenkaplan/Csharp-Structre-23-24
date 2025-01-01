@@ -1,0 +1,7 @@
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\bin\Debug\ders2_6.exe.config
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\bin\Debug\ders2_6.exe
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\bin\Debug\ders2_6.pdb
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\obj\Debug\ders2_6.csproj.AssemblyReference.cache
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\obj\Debug\ders2_6.csproj.CoreCompileInputs.cache
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\obj\Debug\ders2_6.exe
+C:\Users\wexla\OneDrive\Masaüstü\vizedenSonraVeriYapıları\ders2_6\obj\Debug\ders2_6.pdb
